@@ -1,2 +1,2 @@
-# Subprocess_K-t-phanesi
+# Subprocess_Kutuphanesi
 Linux Makinesinde otomatik olarak mac addresini değiştirme.
